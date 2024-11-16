@@ -1,0 +1,5 @@
+// MI primer hola mundo desde Kotlin
+
+fun main(parametro: Array<String>) {
+print("Hola Mundo")
+}
