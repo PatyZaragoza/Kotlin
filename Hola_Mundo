@@ -3,3 +3,8 @@
 fun main(parametro: Array<String>) {
 print("Hola Mundo")
 }
+
+
+// para el uso de kotlin se tiene dos metodos
+// print que se basa en la misma linea 
+// println que es oara dar un salto a la siguiente li
