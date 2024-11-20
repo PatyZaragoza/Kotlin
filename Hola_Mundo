@@ -8,3 +8,8 @@ print("Hola Mundo")
 // para el uso de kotlin se tiene dos metodos
 // print que se basa en la misma linea 
 // println que es oara dar un salto a la siguiente li
+
+
+// para el uso de declarar variables se utiliza "var" y en esta vamos a encontrar dos tipos 
+// una que sera cuando la variable es constante 
+// y otra donde la variable es indefinida 
