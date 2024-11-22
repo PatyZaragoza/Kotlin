@@ -1,3 +1,5 @@
+# Patricia Zaragoza Palma 
+
 fun main(parametro: Array<String>) {
     print("Ingrese la medida del lado del cuadrado:")
     val lado = readln().toInt()
