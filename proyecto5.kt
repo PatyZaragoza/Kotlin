@@ -1,3 +1,5 @@
+#Patricia Zaragoza Palma
+
 fun main(argumento: Array<String>) {
     print("Ingrese primer valor:")
     val valor1 = readln().toInt()
