@@ -1,5 +1,5 @@
 # Patricia Zaragoza Palma
-
+# ingeniería en sistemas computacionales 
 
 fun main(argumento: Array<String>) {
     print("Ingrese primer valor:")
