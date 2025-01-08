@@ -1,4 +1,5 @@
 # Patricia Zaragoza Palma 
+# ingeniería en sistemas computacionales 
 
 fun main(parametro: Array<String>) {
     print("Ingrese la medida del lado del cuadrado:")
